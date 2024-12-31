@@ -67,7 +67,7 @@ Feel free to explore the notebooks, which cover a wide range of Pandas topics, i
 
 12.  DataFrame Creation / Renaming Columns / Exporting a DataFrame to a CSV file
 
-    This notebook covers the basics of creating pandas DataFrames from a list of dictionaries or a dictionary of lists. It also demonstrates how to add new columns, save the DataFrame to a CSV file, and rename columns using both the `columns` attribute and the `rename()` method.
+        This notebook covers the basics of creating pandas DataFrames from a list of dictionaries or a dictionary of lists. It also demonstrates how to add new columns, save the DataFrame to a CSV file, and rename columns using both the `columns` attribute and the `rename()` method.
 
 13. Joining DataFrames
 
